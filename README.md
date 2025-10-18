@@ -8,4 +8,3 @@
 
 - Key tools used in this project include Python, Pandas, Matplotlib, NumPy, and Jupyter Notebook. It demonstrates essential data analytics skills such as data cleaning, transformation, and visualization, making it an excellent reference for anyone learning EDA with real-world healthcare data.
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
